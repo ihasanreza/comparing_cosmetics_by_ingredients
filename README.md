@@ -4,7 +4,6 @@ Are you tired of feeling uncertain about which cosmetic products to try? Reading
 We'll process ingredient lists for 1472 cosmetics from Sephora using word embedding, and then visualize ingredient similarity using t-SNE and the interactive visualization library Bokeh. The goal is to create a content-based recommendation system using the chemical components of cosmetics as our content.
 
 ## Prerequisites
-- Python 3.6 or higher
 - Bokeh
 - scikit-learn
 - numpy
