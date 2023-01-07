@@ -8,6 +8,3 @@ We'll process ingredient lists for 1472 cosmetics from Sephora using word embedd
 - scikit-learn
 - numpy
 - pandas
-
-## Author
-Hassan R. - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
